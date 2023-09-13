@@ -1,0 +1,5 @@
+/db.sqlite3
+wsgi.py
+asgi.py
+__init__.py
+/env
